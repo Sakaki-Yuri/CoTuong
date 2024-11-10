@@ -1,0 +1,34 @@
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.exe
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.deps.json
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.runtimeconfig.json
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.dll
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.pdb
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.Properties.Resources.resources
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.csproj.GenerateResource.cache
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.AssemblyInfoInputs.cache
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.AssemblyInfo.cs
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.csproj.CoreCompileInputs.cache
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.dll
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\refint\Xiangqi.dll
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.pdb
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.genruntimeconfig.cache
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\ref\Xiangqi.dll
+C:\Users\RyderRhythm\Desktop\NĂM 2\HỌC KỲ 1\Lập trình trực quan\ĐỒ ÁN\REAL THING\Xiangqi\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.MatchGame.resources
+D:\C#\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.exe
+D:\C#\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.deps.json
+D:\C#\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.runtimeconfig.json
+D:\C#\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.dll
+D:\C#\Xiangqi\bin\Debug\net8.0-windows\Xiangqi.pdb
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.MatchGame.resources
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.Properties.Resources.resources
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.csproj.GenerateResource.cache
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.AssemblyInfoInputs.cache
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.AssemblyInfo.cs
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.csproj.CoreCompileInputs.cache
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.dll
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\refint\Xiangqi.dll
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.pdb
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\Xiangqi.genruntimeconfig.cache
+D:\C#\Xiangqi\obj\Debug\net8.0-windows\ref\Xiangqi.dll
